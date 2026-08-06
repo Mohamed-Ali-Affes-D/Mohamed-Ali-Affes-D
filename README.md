@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Ali 👋
+# Hi, I'm Mohamed Ali 
 
 Full-Stack Web Developer & DevOps, based in Sfax, Tunisia. 3rd-year Software Engineering student at IPSAS, and developer at **Pixel Pro** since November 2025.
 
