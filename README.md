@@ -1,16 +1,28 @@
-## Hi there 👋
+# Salut, je suis Mohamed Ali 👋
 
-<!--
-**Mohamed-Ali-Affes-D/Mohamed-Ali-Affes-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur full-stack chez **PixelPro Agency** (Tunisie), où je gère l'ensemble du cycle de vie de sites web clients — du code à la production.
 
-Here are some ideas to get you started:
+## 🛠️ Stack & compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+- Laravel, Filament, Livewire
+
+**Frontend**
+- Next.js, WordPress / Elementor
+
+**Infra & DevOps**
+- Administration de serveurs (Plesk, CloudPanel sur OVH VPS)
+- DNS, SSL/TLS, sécurité (Fail2Ban, hardening)
+- CI/CD (Docker, GitHub Actions)
+
+## 💼 Ce que je fais au quotidien
+
+Je gère l'infrastructure et les livrables d'une trentaine de sites clients WordPress et Laravel : déploiement, monitoring, résolution d'incidents (performance, DNS, SSL, délivrabilité email), et développement de fonctionnalités sur-mesure.
+
+## 🎓 Actuellement
+
+Je termine mon **projet de fin d'études (PFE)** : la mise en place d'un pipeline CI/CD (Docker, GitHub Actions, SonarQube, ELK Stack) chez PixelPro.
+
+## 📫 Me contacter
+
+N'hésitez pas à me contacter via les liens de mon profil.
