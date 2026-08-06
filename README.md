@@ -1,8 +1,8 @@
-# Salut, je suis Mohamed Ali 👋
+# Hi, I'm Mohamed Ali 👋
 
-Développeur Web Full-Stack & DevOps, basé à Sfax, Tunisie. Étudiant en 3ᵉ année de cycle d'ingénieur en Génie Logiciel à l'IPSAS, et développeur chez **Pixel Pro** depuis novembre 2025.
+Full-Stack Web Developer & DevOps, based in Sfax, Tunisia. 3rd-year Software Engineering student at IPSAS, and developer at **Pixel Pro** since November 2025.
 
-## 🛠️ Stack & compétences
+## 🛠️ Stack & Skills
 
 **Back-end**
 - PHP, Laravel, Node.js, Express.js, Spring Boot, WordPress
@@ -12,36 +12,36 @@ Développeur Web Full-Stack & DevOps, basé à Sfax, Tunisie. Étudiant en 3ᵉ 
 
 **DevOps & Infra**
 - Docker, Docker Compose, GitHub Actions, CI/CD, ELK Stack, Nginx, VPS, Git
-- Administration Plesk, SMTP, SPF / DKIM / DMARC, certificats SSL
+- Plesk server administration, SMTP, SPF / DKIM / DMARC, SSL certificates
 
 **SEO & GEO**
-- Audit technique, Schema.org, Core Web Vitals, SEO local, optimisation pour moteurs de réponse IA
+- Technical audits, Schema.org, Core Web Vitals, local SEO, optimization for AI answer engines
 
-**Bases de données**
+**Databases**
 - MySQL, PostgreSQL, Firebase
 
 **Mobile**
 - Flutter, Dart, Firebase, Android (Java)
 
-## 💼 Ce que je fais chez Pixel Pro
+## 💼 What I do at Pixel Pro
 
-- Développement d'applications et de sites clients en Laravel, Next.js et WordPress (back-end, API REST, front-end, back-office)
-- Administration d'un serveur dédié sous Plesk : hébergement, bases de données, SSL, sauvegardes, sécurité — parc d'environ 25 projets clients
-- Infrastructure de mailing : SMTP, SPF/DKIM/DMARC, délivrabilité, envois transactionnels
-- Optimisation SEO / GEO des sites clients
-- Maintenance et sécurisation d'un parc WordPress
+- Building client applications and websites with Laravel, Next.js and WordPress (back-end, REST APIs, front-end, admin panels)
+- Managing a dedicated Plesk server: hosting, databases, SSL, backups, security — across ~25 client projects
+- Running the mailing infrastructure: SMTP, SPF/DKIM/DMARC, deliverability, transactional emails
+- SEO / GEO optimization for client websites
+- Maintaining and securing a fleet of WordPress sites
 
-## 🚀 Projets réalisés
+## 🚀 Featured Projects
 
-- **[Grafipub](https://grafipub.com)** — Site Laravel avec espace client B2B et animations interactives
-- **[Braincorner](https://braincorner.tn)** — App et site de réservation en ligne (Laravel, Next.js, MySQL)
-- **[Calino](https://calino.tn)** — Site e-commerce (WordPress, WooCommerce, PHP)
-- **[Elvano](https://elvano.tn)** — Déploiement VPS avec Docker et pipeline CI/CD
+- **[Grafipub](https://grafipub.com)** — Laravel website with B2B client portal and interactive animations
+- **[Braincorner](https://braincorner.tn)** — Online booking app and website (Laravel, Next.js, MySQL)
+- **[Calino](https://calino.tn)** — E-commerce website (WordPress, WooCommerce, PHP)
+- **[Elvano](https://elvano.tn)** — VPS deployment with Docker and CI/CD pipeline
 
-## 🎓 Projet de fin d'études (PFE)
+## 🎓 Final Year Project (PFE)
 
-Mise en place d'un déploiement continu (CI/CD) d'une plateforme web avec **Docker**, **GitHub Actions** et la stack **ELK** : conteneurisation, pipelines de build/test/déploiement avec rollback, centralisation des logs et supervision applicative.
+Built a full CI/CD deployment pipeline for a web platform using **Docker**, **GitHub Actions** and the **ELK Stack**: containerization, build/test/deploy pipelines with rollback strategy, centralized log management and application monitoring.
 
-## 📫 Me contacter
+## 📫 Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-ali-affes-625672171/)
