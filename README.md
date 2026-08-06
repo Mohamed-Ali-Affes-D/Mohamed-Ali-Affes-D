@@ -36,7 +36,6 @@ Full-Stack Web Developer & DevOps, based in Sfax, Tunisia. 3rd-year Software Eng
 - **[Grafipub](https://grafipub.com)** — Laravel website with B2B client portal and interactive animations
 - **[Braincorner](https://braincorner.tn)** — Online booking app and website (Laravel, Next.js, MySQL)
 - **[Calino](https://calino.tn)** — E-commerce website (WordPress, WooCommerce, PHP)
-- **[Elvano](https://elvano.tn)** — VPS deployment with Docker and CI/CD pipeline
 
 ## 🎓 Final Year Project (PFE)
 
